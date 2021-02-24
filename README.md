@@ -1,1 +1,1 @@
-# Lab
+This is the first repository I create for github learning.
